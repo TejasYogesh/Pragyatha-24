@@ -30,7 +30,7 @@ const uiux = () => {
 
           <div className='mt-20 md:mt-4 mx-auto m-2 order-first md:order-last'>
             <div className='bg-white border-4 md:border-8 rounded-[20px]'>
-              <img src="src/assets/Images/uiux.jpg" alt="" className='h-[30vh] md:h-[70vh] rounded-[20px]' />
+              <img src="uiux.jpg" alt="" className='h-[30vh] md:h-[70vh] rounded-[20px]' />
             </div>
           </div>
 

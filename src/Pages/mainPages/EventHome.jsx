@@ -48,8 +48,7 @@ const Events = () => {
                 <div className="timeline-date">02</div>
                 <div className="timeline-content">
                   <h3 className='font-bold'>UI/UX Hackathon</h3>
-                  <p>This 24-Hour UI/UX hackathon fosters innovation,collaboration,
-                    and showcases skill,exploring new design frontiers</p>
+                  <p>This 24-Hour UI/UX hackathon fosters innovation,collaboration,showcases skill,exploring new design frontiers</p>
                   <div className='my-8'>
                     <Link to="/Uiux" className='bg-white p-4 my-4 rounded-xl'>Know more</Link>
                   </div>
