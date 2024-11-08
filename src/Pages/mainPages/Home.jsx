@@ -17,9 +17,9 @@ const Home = () => {
 
             {/* -------------------------------Main Screen-------------------------------------------- */}
             <div className='frontPage bg-black py-[50%] md:py-32 px-10 h-[90vh]'>
-                <div className='w-[70vw] md:w-[60vw]'>
+                <div className='w-[90vw] md:w-[50vw]'>
                     <p className='text-white leading-[5px] mx-1'>ME-RIISE FOUNDATION Presents</p>
-                    <p className='text-white text-[40px] lg:text-[120px] font-bold  leading-tight shadow-text-2xl'  > <TypewriterComponent
+                    <p className='text-white text-[40px] md:text-[60px] lg:text-[120px] font-bold  leading-tight shadow-text-2xl'> <TypewriterComponent
                         onInit={(typewriter) => {
                             typewriter
                                 .typeString("Pragyatha'24")
@@ -28,7 +28,7 @@ const Home = () => {
                                 .start();
                         }}
                     /></p>
-                    <p className='text-white leading-tight text-right w-[70vw] md:w-[55vw]'>Proclaim Your Potential</p>
+                    <p className='text-white leading-tight text-right'>Proclaim Your Potential</p>
                     <Logo />
                 </div>
                 <div className='text-center text-white mt-64 md:mt-32 font-bold text-[25px]'>

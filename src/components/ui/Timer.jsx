@@ -31,9 +31,9 @@ const Timer = () => {
 
     return (
         <div className="countdown-timer">
-            <h1 className='font-bold text-4xl m-4'>STARTS IN</h1>
+            <h1 className='font-bold text-3xl m-4'>Starts in</h1>
             <div>
-                <div className='flex justify-center rounded-2xl'>
+                <div className='flex justify-center rounded-2xl text-3xl'>
                     <span className='mx-4'>{timeRemaining.days} <p>Days</p></span>
                     <span className='mx-4'>{timeRemaining.hours} <p>Hours</p> </span>
                     <span className='mx-4'>{timeRemaining.minutes} <p>Min</p> </span>

@@ -13,7 +13,7 @@ const Navbar = () => {
                 <div className='flex justify-between'>
                     <div className='bg-black p-2'>
                         <Link to='/'>
-                            <img src="src/assets/Images/PragyathaLogo.png" alt="" className='h-10 sm:h-8 md:h-12 lg:h-12 m-4' />
+                            <img src="PragyathaLogo.png" alt="" className='h-10 sm:h-8 md:h-12 lg:h-12 m-4' />
                         </Link>
                     </div>
                     <div>
