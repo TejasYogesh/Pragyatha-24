@@ -16,7 +16,7 @@ const Crackathon = () => {
                     <div className='p-10'><div className='text-pink-700 font-bold text-4xl lg:text-8xl px-4'>Crackathon.</div>
                         <p className='text-white font-bold text-xl lg:text-[20px] p-6'>9:30 AM | 30th Nov to 1st Dec  | Training and Placement block</p>
 
-                        <p className='text-white px-6 mb-1 md:mb-10 text-xl'>Crackathon is an exciting, fast-paced
+                        <p className='text-white px-6 mb-1 md:mb-10 text-lg'>Crackathon is an exciting, fast-paced
 
 
                             event where tech enthusiasts, engineers, and problem-solvers compete
