@@ -18,7 +18,7 @@ const Pragyatha = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 4 }} >Pragyatha : Timeline</motion.p>
       </motion.div>
-      <div className='text-white bg-black px-32'>
+      <div className='text-white bg-black px-12 md:px-18 lg:px-32'>
         <motion.p initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{
