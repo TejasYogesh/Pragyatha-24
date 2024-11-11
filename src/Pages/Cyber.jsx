@@ -17,7 +17,7 @@ const Cyber = () => {
           <div className='p-10'><div className='text-pink-700 font-bold text-4xl lg:text-6xl px-4'>Cyber Security & Ethical Hacking.</div>
             <p className='text-white font-bold text-xl lg:text-[20px] p-6'>9:30 AM | 30th Nov to Dec 1st | Venue - Electrical Lab</p>
 
-            <p className='text-white px-6 text-xl'>The Cybersecurity and Ethical Hacking 
+            <p className='text-white px-6 text-md'>The Cybersecurity and Ethical Hacking
 
               Workshop is a 2-day intensive program designed to enhance skills in
               safeguarding digital assets. Participants will learn about the latest cyber
