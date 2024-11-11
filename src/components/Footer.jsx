@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div>
             {/* <hr /> */}
-            <div className='bg-black text-white text-xl p-2 flex items-center justify-center'>
+            <div className='bg-black text-white text-xl p-2 text-center'>
                 <p className='py-8 text-center'>Pragyatha 2024 | All rights reserved</p>
  
             </div>
