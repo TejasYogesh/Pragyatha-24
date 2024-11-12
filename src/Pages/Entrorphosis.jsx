@@ -16,7 +16,7 @@ const Entrorphosis = () => {
                         <p className='text-white font-bold text-xl lg:text-[20px] p-6'>9:30 AM | 30th Nov to 1st Dec | Venue - EEE Seminar Hall</p>
 
                         <p className='text-white px-6 mb-1 md:mb-10'>ENTRORPHOSIS is a dynamic event
-                            designed to ignite entrepreneurial thinking and enhance problem-solv skills.
+                            designed to ignite entrepreneurial thinking and enhance problem-solving skills.
                             It guides participants through five key stages: ideation, prototyping, pitching
                             , advertisement creation, and enterprise launching.</p>
                         <p className='text-white px-6'>This process fosters

@@ -81,7 +81,7 @@ const Events = () => {
                 <div className="timeline-date">04</div>
                 <div className="timeline-content">
                   <h3 className='entror font-bold'>Entrorphosis</h3>
-                  <p>ENTRORPHOSIS Ignites entrepreneurial insights, sharpens skills, and
+                  <p>Entrorphosis ignites entrepreneurial insights, sharpens skills, and
                     fosters innovation, cultivating a growth-focused mindset.
                   </p>
                   <div className='my-8'>
@@ -100,7 +100,7 @@ const Events = () => {
                 <div className="timeline-date">05</div>
                 <div className="timeline-content">
                   <h3 className='font-bold'>GitHub Workshop</h3>
-                  <p>Git & GitHub Hackathon unites developers to solve challenges, learn, collaborate,and innovate in technology.</p>
+                  <p>Git & GitHub Workshop unites developers to solve challenges, learn, collaborate,and innovate in technology.</p>
                   <div className='my-8'>
                     <Link to="/git" className='bg-white p-4 my-4 rounded-xl'>Know more</Link>
                   </div>
