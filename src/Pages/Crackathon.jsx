@@ -27,7 +27,7 @@ const Crackathon = () => {
                             ideas that showcase their skills and ingenuity in technology.</p>
 
 
-                        <button className='bg-white my-10 mx-4 px-10 py-4  hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrHAzxqx66082mvVCorpkf8WQYBX5HvxdPZjxaiKLZ1Jl3DQ/viewform?usp=sf_link">Register Now</a></button>
+                        <button className='bg-white my-10 mx-4 px-10 py-4  hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrHAzxqx66082mvVCorpkf8WQYBX5HvxdPZjxaiKLZ1Jl3DQ/viewform?usp=sf_link" target='_blank'>Register Now</a></button>
                         <button className='bg-white mx-4 px-10 py-4' onClick={goBack}>Go Back</button>
 
                     </div>
