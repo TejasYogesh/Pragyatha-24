@@ -18,13 +18,13 @@ const Adspize = () => {
 
                         <p className='text-white text-md md:text-md px-6'>ADSPIZE is an inter-branch advertising competition where participants create captivating ads that
                             blend creativity with effective product promotion. Teams are challenged to develop innovative campaigns that resonate with audiences through storytelling
-                            and strategic media. 
+                            and strategic media.
                         </p>
                         <p className='text-white text-md px-6 my-1 md:my-4'>
-                        This experience helps participants gain practical skills in branding, consumer psychology, and marketing while
-                        aiming to leave a lasting impression on their target audience.
+                            This experience helps participants gain practical skills in branding, consumer psychology, and marketing while
+                            aiming to leave a lasting impression on their target audience.
                         </p>
- 
+
 
 
                         <button className='bg-white mx-4 px-10 py-4 my-10  hover:bg-pink-600 hover:text-white' onClick={goBack}>Go Back</button>
