@@ -39,7 +39,7 @@ const Contact = () => {
 
 
                     <div className='text-white bg-black px-4 text-center col-span-1 lg:col-span-3'>
-                        <div className='bg-pink-700 my-6 p-4 rounded-xl text-xl font-bold hover:bg-white hover:text-black'><a href="RuleBook/Rulebook.pdf">Download Offical Pragyatha Rulebook 2k24</a></div>
+                        <div className='bg-pink-700 my-6 p-4 rounded-xl text-xl font-bold hover:bg-white hover:text-black'><a href="RuleBook/Rulebook.pdf" target='_blank'>Download Offical Pragyatha Rulebook 2k24</a></div>
                         <div className='bg-pink-700 my-6 p-4 rounded-xl text-xl font-bold  hover:bg-white hover:text-black'><a href="http://meriise.org/">Contact Us through ME-RIISE Offical Website</a></div>
                         {/* <div className='bg-pink-700 my-6 p-4 rounded-xl text-xl font-bold'>Malnad College of Engineering - Hassan</div>  */}
                     </div>
