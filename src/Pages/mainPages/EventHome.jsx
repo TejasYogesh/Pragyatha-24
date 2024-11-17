@@ -150,7 +150,7 @@ const Events = () => {
                 determination and collaboration. As they race against the clock, participants
                 push their limits, developing bold and groundbreaking
                 ideas that showcase their skills and ingenuity in technology.</p>
-              <button className='my-10 p-5 bg-white text-black  hover:bg-pink-600 hover:text-white'><a href="https://forms.gle/BaZBMWTkS1zunVSt7">Register Now</a></button>
+              <button className='my-10 p-5 bg-white text-black  hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrHAzxqx66082mvVCorpkf8WQYBX5HvxdPZjxaiKLZ1Jl3DQ/viewform?usp=sf_link" target='_blank'>Register Now</a></button>
             </div>
 
             <br />
@@ -172,7 +172,7 @@ const Events = () => {
                 dynamic platform fosters creativity, nurtures teamwork, and empowers
                 innovators to transform bold ideas into
                 groundbreaking solutions that can shape the future of the tech industry.</p>
-              <button className='my-10 p-5 bg-white text-black  hover:bg-pink-600 hover:text-white'><a href="https://forms.gle/vEXxLU49TczCb6qi8">Register Now</a></button>
+              <button className='my-10 p-5 bg-white text-black  hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSc5n7rqZ_kdztm4ZUDWLybPtchLIFLn__vsPZCMcx5_RwgaZA/viewform?usp=sf_link" target='_blank'>Register Now</a></button>
             </div>
 
 

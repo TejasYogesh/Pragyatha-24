@@ -30,10 +30,12 @@
     background-image: linear-gradient(to bottom, rgb(0, 0, 0), transparent), url(../../assets/Images/3d-fantasy-scene.jpg);
 
 }
-.know{
+
+.know {
     transition: all ease-in .2s;
 }
-Link{
+
+Link {
     transition: all ease-in .2s;
 }
 
@@ -288,7 +290,7 @@ button:focus {
         left: 7px;
         width: 8px;
     }
-    
+
 
     .timeline-item:nth-child(odd) {
         padding-right: 0;
@@ -314,7 +316,7 @@ button:focus {
         color: white;
         margin: 0 0 10px;
     }
-    
+
 
 
 }
