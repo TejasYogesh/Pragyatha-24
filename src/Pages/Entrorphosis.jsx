@@ -24,7 +24,7 @@ const Entrorphosis = () => {
                             individuals to effectively tackle real-world business
                             challenges and drive innovation in their endeavors</p>
 
-                        <button className='bg-white my-10 mx-4 px-10 py-4'><a href="https://forms.gle/5uKwsLaQoQY7PdaL7">Register Now</a></button>
+                        <button className='bg-white my-10 mx-4 px-10 py-4 hover:bg-pink-600 hover:text-white'><a href="https://forms.gle/5uKwsLaQoQY7PdaL7">Register Now</a></button>
                         <button className='bg-white mx-4 px-10 py-4' onClick={goBack}>Go Back</button>
 
                     </div>
