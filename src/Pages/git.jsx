@@ -12,7 +12,7 @@ const git = () => {
       <Navbar />
       <div className='h-[100vh]'>
         <div className='border-4 lg:border-8 rounded-[30px] grid grid-cols-1 md:grid-cols-2 bg-black h-[90vh] md:h-[70vh] lg:h-[90vh] p-4 m-6'>
-          <div className='p-10'><div className='text-pink-700 font-bold text-4xl lg:text-7xl px-4'>Git & GitHub Workshop.</div>
+          <div className='p-10'><div className='text-pink-700 font-bold text-6xl lg:text-7xl px-4'>Git & GitHub Workshop.</div>
             <p className='text-white font-bold text-xl lg:text-[20px] p-6'>9:30 AM | 30th Nov to 1st Dec | Venue - Civil CAED Lab</p>
 
             <p className='text-white px-6'>The Git & GitHub Workshop unites
