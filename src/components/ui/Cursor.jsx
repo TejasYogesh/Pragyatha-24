@@ -5,6 +5,7 @@ export default function Cursor() {
   return (
     <div className="App">
       <AnimatedCursor
+        className='none md:block lg:block'
         innerSize={20}
         outerSize={20}
         color='193, 11, 111'
