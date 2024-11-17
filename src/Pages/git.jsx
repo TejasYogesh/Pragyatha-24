@@ -30,9 +30,9 @@ const git = () => {
 
           </div>
 
-          <div className='mt-20 md:mt-2 mx-auto m-2 order-first md:order-last'>
+          <div className='mt-24 md:mt-2 lg:mt-10 mx-auto m-2 order-first md:order-last'>
             <div className='bg-white border-4 md:border-8 rounded-[20px]'>
-              <img src="github.png" alt="" className='h-[30vh] md:h-[70vh] rounded-[20px]' />
+              <img src="github.png" alt="" className='h-[30vh] md:h-[50vh] lg:h-[70vh] rounded-[20px]' />
             </div>
           </div>
 
