@@ -9,7 +9,7 @@ const Scroll = () => {
                 style={{
                     scaleX: scrollYProgress,
                     translateX: scrollYProgress, // Move from left to right
-                    height: '10px', // Set a height for visibility
+                    // height: '10px', // Set a height for visibility
                     backgroundColor: 'white', // Set a color for visibility
                     position: 'fixed', // Position it fixed
                     top: 0, // Align it to the top
@@ -17,6 +17,7 @@ const Scroll = () => {
                     right: 0,
                     zIndex: 1000 // Bring it to the front
                 }}
+                className='h-2 md:h-3 lg:h-4'
             />
         </div>
     )
