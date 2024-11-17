@@ -33,6 +33,9 @@
 .know{
     transition: all ease-in .2s;
 }
+Link{
+    transition: all ease-in .2s;
+}
 
 .know:hover {
 

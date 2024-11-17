@@ -25,7 +25,7 @@ const git = () => {
               that can shape the future of the tech industry.</p>
            
 
-            <button className='bg-white my-10 mx-4 px-10 py-4  hover:bg-pink-600 hover:text-white'><a href="https://forms.gle/vEXxLU49TczCb6qi8">Register Now</a></button>
+            <button className='bg-white my-10 mx-4 px-10 py-4  hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSc5n7rqZ_kdztm4ZUDWLybPtchLIFLn__vsPZCMcx5_RwgaZA/viewform?usp=sf_link" target='_blank'>Register Now</a></button>
             <button className='bg-white mx-4 px-10 py-4' onClick={goBack}>Go Back</button>
 
           </div>

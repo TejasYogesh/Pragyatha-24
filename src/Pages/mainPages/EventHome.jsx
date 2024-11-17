@@ -33,7 +33,7 @@ const Events = () => {
                     product promotion.
                   </p>
                   <div className='my-8'>
-                    <Link to="/adspize" className='know bg-white p-4 my-4 rounded-xl'>Know more</Link>
+                    <Link to="/adspize" className='know bg-white p-4 my-4 rounded-xl hover:bg-pink-600 hover:text-white'>Know more</Link>
                   </div>
                 </div>
 
@@ -50,7 +50,7 @@ const Events = () => {
                   <h3 className='font-bold'>UI/UX Hackathon</h3>
                   <p>This 24-Hour UI/UX hackathon fosters innovation,collaboration,showcases skill,exploring new design frontiers</p>
                   <div className='my-8'>
-                    <Link to="/Uiux" className='bg-white p-4 my-4 rounded-xl'>Know more</Link>
+                    <Link to="/Uiux" className='bg-white p-4 my-4 rounded-xl  hover:bg-pink-600 hover:text-white'>Know more</Link>
                   </div>
                 </div>
 
@@ -67,7 +67,7 @@ const Events = () => {
                   <h3 className='font-bold'>Crackathon</h3>
                   <p>A Crackathon is a competition for tech enthusiasts solving complex puzzles through debugging and reverse engineering.</p>
                   <div className='my-8'>
-                    <Link to="/crackathon" className='bg-white p-4 my-4 rounded-xl'>Know more</Link>
+                    <Link to="/crackathon" className='bg-white p-4 my-4 rounded-xl  hover:bg-pink-600 hover:text-white'>Know more</Link>
                   </div>
                 </div>
 
@@ -85,7 +85,7 @@ const Events = () => {
                     fosters innovation, cultivating a growth-focused mindset.
                   </p>
                   <div className='my-8'>
-                    <Link to="/entrorphosis" className='bg-white p-4 my-4 rounded-xl'>Know more</Link>
+                    <Link to="/entrorphosis" className='bg-white p-4 my-4 rounded-xl  hover:bg-pink-600 hover:text-white'>Know more</Link>
                   </div>
                 </div>
 
@@ -102,7 +102,7 @@ const Events = () => {
                   <h3 className='font-bold'>GitHub Workshop</h3>
                   <p>Git & GitHub Workshop unites developers to solve challenges, learn, collaborate,and innovate in technology.</p>
                   <div className='my-8'>
-                    <Link to="/git" className='bg-white p-4 my-4 rounded-xl'>Know more</Link>
+                    <Link to="/git" className='bg-white p-4 my-4 rounded-xl  hover:bg-pink-600 hover:text-white'>Know more</Link>
                   </div>
                 </div>
 
@@ -120,7 +120,7 @@ const Events = () => {
                     threats, defenses , and ethical hacking techniques for protection.
                   </p>
                   <div className='my-8'>
-                    <Link to="/cyber" className='bg-white p-4 my-4 rounded-xl'>Know more</Link>
+                    <Link to="/cyber" className='bg-white p-4 my-4 rounded-xl  hover:bg-pink-600 hover:text-white'>Know more</Link>
                   </div>
                 </div>
 
@@ -150,7 +150,7 @@ const Events = () => {
                 determination and collaboration. As they race against the clock, participants
                 push their limits, developing bold and groundbreaking
                 ideas that showcase their skills and ingenuity in technology.</p>
-              <button className='my-10 p-5 bg-white text-black'><a href="https://forms.gle/BaZBMWTkS1zunVSt7">Register Now</a></button>
+              <button className='my-10 p-5 bg-white text-black  hover:bg-pink-600 hover:text-white'><a href="https://forms.gle/BaZBMWTkS1zunVSt7">Register Now</a></button>
             </div>
 
             <br />
@@ -172,7 +172,7 @@ const Events = () => {
                 dynamic platform fosters creativity, nurtures teamwork, and empowers
                 innovators to transform bold ideas into
                 groundbreaking solutions that can shape the future of the tech industry.</p>
-              <button className='my-10 p-5 bg-white text-black'><a href="https://forms.gle/vEXxLU49TczCb6qi8">Register Now</a></button>
+              <button className='my-10 p-5 bg-white text-black  hover:bg-pink-600 hover:text-white'><a href="https://forms.gle/vEXxLU49TczCb6qi8">Register Now</a></button>
             </div>
 
 

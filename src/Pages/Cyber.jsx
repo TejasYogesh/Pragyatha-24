@@ -28,7 +28,7 @@ const Cyber = () => {
               , staying ahead in the evolving cybersecurity landscape</p>
             <br />
 
-            <button className='bg-white my-4 mx-4 px-10 py-4 hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSdTE1gibqAcPuajlrBrFGbFN3z8TmIrILB2k5vcLveEFlkYBQ/viewform?usp=sf_link">Register Now</a></button>
+            <button className='bg-white my-4 mx-4 px-10 py-4 hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSdTE1gibqAcPuajlrBrFGbFN3z8TmIrILB2k5vcLveEFlkYBQ/viewform?usp=sf_link" target='_blank'>Register Now</a></button>
             <button className='bg-white mx-4 px-10 py-4' onClick={goBack}>Go Back</button>
 
           </div>

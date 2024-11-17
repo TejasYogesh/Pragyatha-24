@@ -23,7 +23,7 @@ const uiux = () => {
             <p className='text-white px-6 my-1 md:my-8'>By the end, each team will pitch their prototypes to an expert judging panel, 
             competing for top honors in innovation and design.</p>
 
-            <button className='bg-white my-1 md:my-10 mx-4 px-10 py-4  hover:bg-pink-600 hover:text-white'><a href="https://forms.gle/AZZqxf713iosinxy9">Register Now</a></button>
+            <button className='bg-white my-1 md:my-10 mx-4 px-10 py-4  hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSePvygDIo4lYZq7VeAHXJAl_riyy--CL6YVSJgf_qDFXvNdcg/viewform?usp=sf_link" target='_blank'>Register Now</a></button>
             <button className='bg-white mx-4 px-10 py-4' onClick={goBack}>Go Back</button>
 
           </div>
