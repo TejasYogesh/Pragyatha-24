@@ -57,7 +57,7 @@ const Pragyatha = () => {
               <p>Pragyatha 2k23, a state-level entrepreneurial fest where technology and
                  entrepreneurship blend. This platform is designed for engineers,
                  innovators, and start-ups to realize their potential and ambition.</p>
-              <button className='bg-white p-4 my-4'><a href="http://meriise.org/pragyatha23.html">Know more</a></button>
+              <button className='bg-white p-4 my-4'><a href="http://meriise.org/pragyatha23.html" target='_blank'>Know more</a></button>
             </div>
 
           </div>
@@ -75,7 +75,7 @@ const Pragyatha = () => {
                  where technology meets vision! Pragyatha has always been a platform for aspiring
                   entrepreneurs,
                  innovative engineers, and start-up enthusiasts to showcase their potential,</p>
-              <button className='bg-white p-4 m-4'><a href="http://meriise.org/pragyatha22.html#">Know more</a></button>
+              <button className='bg-white p-4 m-4'><a href="http://meriise.org/pragyatha22.html#" target='_blank'>Know more</a></button>
             </div>
 
           </div>
@@ -89,7 +89,7 @@ const Pragyatha = () => {
             <div className="timeline-content">
               <h3 className='font-bold'>Pragyatha'19</h3>
               <p>A main event comprising of 3 stages shall be held which includes the following things....</p>
-              <button className='bg-white p-4 my-4'><a href="http://meriise.org/prag.html">Know more</a></button>
+              <button className='bg-white p-4 my-4'><a href="http://meriise.org/prag.html" target='_blank'>Know more</a></button>
             </div>
 
           </div>
