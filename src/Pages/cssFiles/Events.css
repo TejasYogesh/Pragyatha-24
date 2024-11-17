@@ -170,7 +170,7 @@ Link {
     position: absolute;
     width: 12px;
     height: 100%;
-    background-color: rgb(255, 0, 157);
+    background-color: rgb(200, 0, 100);
 
     animation: timeline 3s linear;
     animation-timeline: view();
@@ -227,7 +227,7 @@ Link {
 }
 
 .timeline-content {
-    border: 10px solid rgb(255, 0, 179);
+    border: 10px solid  rgb(200, 0, 100);
     padding: 20px 50px;
     border-radius: 40px;
     cursor: pointer;
