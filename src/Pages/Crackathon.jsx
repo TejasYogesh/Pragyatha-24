@@ -23,8 +23,7 @@ const Crackathon = () => {
                             to create innovative solutions. This high-energy competition challenges
                             participants to think quickly and creatively under intense pressure, demanding
                             determination and collaboration. As they race against the clock, participants
-                            push their limits, developing bold and groundbreaking
-                            ideas that showcase their skills and ingenuity in technology.</p>
+                            push their limits.</p>
 
 
                         <button className='bg-white my-10 mx-4 px-10 py-4  hover:bg-pink-600 hover:text-white'><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrHAzxqx66082mvVCorpkf8WQYBX5HvxdPZjxaiKLZ1Jl3DQ/viewform?usp=sf_link" target='_blank'>Register Now</a></button>

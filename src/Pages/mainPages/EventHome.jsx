@@ -29,7 +29,7 @@ const Events = () => {
                 <div className="timeline-date">01</div>
                 <div className="timeline-content">
                   <h3 className='font-bold'>Adspize</h3>
-                  <p>Adspize is an advertising competition where participants create impactful ads blending creativity and
+                  <p>Adspize is an advertising competition where participants create impactful advertisements blending creativity and
                     product promotion.
                   </p>
                   <div className='my-8'>
