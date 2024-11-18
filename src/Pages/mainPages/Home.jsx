@@ -8,7 +8,16 @@ import '../cssFiles/font.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import TypewriterComponent from 'typewriter-effect'
 import Navbar from '@/components/Navbar'
+import Clarity from '@microsoft/clarity';
+import { useEffect } from 'react'
+
+
+
 const Home = () => {
+    useEffect(() => {
+        Clarity.init('p0awpsd4j5');
+    }, [])
+    
     return (
         <div>
             <Scroll />
@@ -33,7 +42,7 @@ const Home = () => {
                 </div>
                 <div className='text-center text-white mt-64 md:mt-32 font-bold text-[25px]'>
                     <Timer />
-                 
+
                 </div>
             </div>
             {/* -------------------------------Main Screen--------------------------------------------- */}
