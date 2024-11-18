@@ -17,7 +17,7 @@ const Scroll = () => {
                     right: 0,
                     zIndex: 1000 // Bring it to the front
                 }}
-                className='h-2 md:h-3 lg:h-4'
+                className='h-2 md:h-3 lg:h-3'
             />
         </div>
     )
