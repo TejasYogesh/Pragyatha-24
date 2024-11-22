@@ -8,15 +8,15 @@ import '../cssFiles/font.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import TypewriterComponent from 'typewriter-effect'
 import Navbar from '@/components/Navbar'
-import Clarity from '@microsoft/clarity';
+// import Clarity from '@microsoft/clarity';
 import { useEffect } from 'react'
 
 
 
 const Home = () => {
-    useEffect(() => {
-        Clarity.init('p0awpsd4j5');
-    }, [])
+    // useEffect(() => {
+    //     Clarity.init('p0awpsd4j5');
+    // }, [])
     
     return (
         <div>
