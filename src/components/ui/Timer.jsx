@@ -31,15 +31,15 @@ const Timer = () => {
 
     return (
         <div className="countdown-timer flex flex-col items-center justify-center h-4 md:h-32">
-            <h1 className='font-bold text-3xl m-4'>Starts in</h1>
-            <div>
+            <h1 className='font-bold text-3xl m-4'>Scroll to view more</h1>
+            {/* <div>
                 <div className='flex justify-center rounded-2xl text-4xl md:text-2xl lg:text-xl '>
                     <span className='mx-4'>{timeRemaining.days} <p>Days</p></span>
                     <span className='mx-4'>{timeRemaining.hours} <p>Hours</p> </span>
                     <span className='mx-4'>{timeRemaining.minutes} <p>Min</p> </span>
                     <span className='mx-4'>{timeRemaining.seconds} <p>Sec</p></span>
                 </div>
-            </div>
+            </div> */}
             
         </div>
     );
